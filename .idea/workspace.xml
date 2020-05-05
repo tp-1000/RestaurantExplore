@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ebbaab2-73d1-482e-9688-5b7d213325b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menubuilder/Restaurant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Resturant_Menu/menubuilder/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Resturant_Menu/menubuilder/Item.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Resturant_Menu/menubuilder/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Resturant_Menu/menubuilder/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Resturant_Menu/menubuilder/Preview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Resturant_Menu/menubuilder/Preview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Resturant_Menu/menubuilder/Resturant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/menubuilder/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menubuilder/Item.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/menubuilder/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menubuilder/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/menubuilder/Preview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menubuilder/Preview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/menubuilder/Resturant.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +32,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="menubuilder" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Restaurant">
     <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="menubuilder.Restaurant" />
       <module name="Resturant_Menu" />
@@ -59,9 +55,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyClass" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyClass" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/MyClass.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Restaurant" />
+        <item itemvalue="Java Scratch.MyClass" />
+        <item itemvalue="Java Scratch.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -79,10 +91,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1020" y="428" key="#com.intellij.ide.util.MemberChooser" timestamp="1587185256008">
+    <state x="965" y="384" key="#MyClass" timestamp="1588042232230">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1020" y="428" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1587185256008" />
+    <state x="965" y="384" key="#MyClass/0.0.2560.1440@0.0.2560.1440" timestamp="1588042232230" />
+    <state x="965" y="396" key="#Scratch" timestamp="1587663383311">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="965" y="396" key="#Scratch/0.0.2560.1440@0.0.2560.1440" timestamp="1587663383311" />
+    <state x="880" y="385" key="#Templates" timestamp="1587668311069">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="385" key="#Templates/0.0.2560.1440@0.0.2560.1440" timestamp="1587668311069" />
+    <state x="1020" y="428" key="#com.intellij.ide.util.MemberChooser" timestamp="1587668418170">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1020" y="428" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1587668418170" />
     <state x="1046" y="612" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587215943943">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -91,30 +115,30 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1018" y="474" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1587185500235" />
-    <state width="2560" height="447" key="GridCell.Tab.0.bottom" timestamp="1587243386981">
+    <state width="2560" height="167" key="GridCell.Tab.0.bottom" timestamp="1588647237398">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2560" height="447" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1587243386981" />
-    <state width="2560" height="447" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587176146974" />
-    <state width="2560" height="447" key="GridCell.Tab.0.center" timestamp="1587243386980">
+    <state width="2560" height="167" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1588647237398" />
+    <state width="2560" height="1283" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587274918954" />
+    <state width="2560" height="167" key="GridCell.Tab.0.center" timestamp="1588647237398">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2560" height="447" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1587243386980" />
-    <state width="2560" height="447" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587176146973" />
-    <state width="2560" height="447" key="GridCell.Tab.0.left" timestamp="1587243386979">
+    <state width="2560" height="167" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1588647237398" />
+    <state width="2560" height="1283" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587274918954" />
+    <state width="2560" height="167" key="GridCell.Tab.0.left" timestamp="1588647237397">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2560" height="447" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1587243386979" />
-    <state width="2560" height="447" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587176146973" />
-    <state width="2560" height="447" key="GridCell.Tab.0.right" timestamp="1587243386980">
+    <state width="2560" height="167" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1588647237397" />
+    <state width="2560" height="1283" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587274918954" />
+    <state width="2560" height="167" key="GridCell.Tab.0.right" timestamp="1588647237398">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="2560" height="447" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1587243386980" />
-    <state width="2560" height="447" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587176146973" />
-    <state x="957" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1587215894226">
+    <state width="2560" height="167" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1588647237398" />
+    <state width="2560" height="1283" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587274918954" />
+    <state x="957" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1588124525162">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="957" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1587215894226" />
+    <state x="957" y="552" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1588124525162" />
     <state x="1018" y="480" key="extract.method.dialog" timestamp="1587152255101">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -123,14 +147,18 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="938" y="355" width="683" height="729" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1587225769018" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1587231493620">
+    <state width="600" height="424" key="javadoc.popup" timestamp="1587655552687">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1587231493620" />
+    <state width="600" height="424" key="javadoc.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1587655552687" />
     <state x="1042" y="333" key="refactoring.ChangeSignatureDialog" timestamp="1587158338592">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1042" y="333" key="refactoring.ChangeSignatureDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1587158338592" />
+    <state x="880" y="386" key="scopes" timestamp="1587663351926">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="386" key="scopes/0.0.2560.1440@0.0.2560.1440" timestamp="1587663351926" />
     <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1587181203456">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>

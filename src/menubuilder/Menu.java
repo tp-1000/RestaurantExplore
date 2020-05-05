@@ -32,18 +32,19 @@ public class Menu {
         //dialog prompts for item generation
         System.out.println("Add an item...");
 
+
         System.out.println("Name: ");
         String name = Restaurant.input.nextLine();
-        Restaurant.input.reset();
         if(name.equals("")) {
             name = "tbd";
         }
-
         System.out.println("Price: ");
         String price = Restaurant.input.nextLine();
         if(price.equals("")) {
             price = "tbd";
         }
+
+
 
         System.out.println("Description: ");
         String description = Restaurant.input.nextLine();
@@ -82,9 +83,9 @@ public class Menu {
          System.out.println("\nPick an item: ");
          Preview.editList();
 
-         String customRange = "[0-" + getListArrayLength() + 1 + "]";
+         String customRange = "[0-" + (getListArrayLength()- 1) + "]";
          while(!Restaurant.input.next().matches(customRange)) {
-            System.out.println("Please pick 0-" + getListArrayLength() + 1 + "] to select item");
+            System.out.println("Please pick " +  customRange + " to select item");
          }
          Integer option = Integer.parseInt(Restaurant.input.match().group());
 
